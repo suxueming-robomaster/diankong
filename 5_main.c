@@ -23,7 +23,7 @@ int main ()
 	{
 		if(b == 0)
 		{
-			printf("错误:除数不能为 0\n"); 
+			printf("错误: 除数不能为 0\n"); 
 		}
 		else
 		{
@@ -32,7 +32,7 @@ int main ()
 	}
 	else
 	{
-		printf("错误:不支持的运算符\n");
+		printf("错误: 不支持的运算符\n");
 	}
 	return 0;
 	
