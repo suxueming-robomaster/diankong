@@ -32,7 +32,7 @@ int main ()
 	}
 	else
 	{
-		printf("错误：不支持的运算符\n");
+		printf("错误:不支持的运算符\n");
 	}
 	return 0;
 	
