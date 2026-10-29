@@ -1,4 +1,3 @@
-
 //202610830225
 //苏雪铭 
 #include <stdio.h>
@@ -24,7 +23,7 @@ int main ()
 	{
 		if(b == 0)
 		{
-			printf("错误:除数不能为0\n"); 
+			printf("错误:除数不能为 0\n"); 
 		}
 		else
 		{
